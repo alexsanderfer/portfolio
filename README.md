@@ -15,8 +15,6 @@ O site é composto por 5 seções diferentes:
 - **Seção Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
 - **Seção Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
 
-![Telas](image/ConjuntoTelas.png)
-
 ## 🛠 Tecnologias utilizadas
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Visual Studio Code;
@@ -28,18 +26,8 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 ## 📌 Ajustes e melhorias
 O site ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-(Próxima atualização: 17/10/2020)
-
 - [x] Adicionar Dark Mode (tema escuro); 
 - [x] Efeito flutuante;
 - [x] Animação no menu;  
-- [ ] Responsividade; 
+- [x] Responsividade; 
 ---
-
-## 🌈 Seja um dos contribuidores<br>
-Quer fazer parte desse projeto? É simples!<br>
-Faço um Fork nele colocando suas modificações e depois mande uma solicitação.
-
-<p align= center>
-🏰 Orgulhosamente feito por <strong>Iuri Silva</strong>
-</p>
