@@ -60,8 +60,12 @@ const Testimonial = () => {
 
             <div className="app__testimonials-brands app__flex">
                 {brands.map((brand) => (
-                    <motion.div>
-
+                    <motion.div
+                        whileInView={{opacity: [0, 1]}}
+                        transition={{duration: 0.5, type: 'tween'}}
+                        key={brand._id}
+                    >
+                        <img src={urlFor(brand.imgUrl)} alt={brand.name}/>
                     </motion.div>
                 ))}
             </div>
@@ -69,9 +73,8 @@ const Testimonial = () => {
     )
 }
 
-export default AppWrap(MotionWrap(Testimonial, 'app__testimonials'),
-    'testimonial',
+export default AppWrap(MotionWrap(Testimonial, 'app__testimonial'),
+    'testimonials',
     'app__primarybg'
 )
 
-// Vídeo pausado em 2:35:26
