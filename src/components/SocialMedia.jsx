@@ -9,6 +9,7 @@ const SocialMedia = () => {
             <div>
         <a href="wwww.twitter.com" target="_blank" rel="noopener noreferrer">
         <BsTwitter/>
+        </a>
         </div>
             <div><FaFacebookF/></div>
             <div><BsInstagram/></div>
