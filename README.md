@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f55a4a1-3cbb-4f0c-97e3-f548afbacac1/deploy-status)](https://app.netlify.com/sites/alexsanderfer/deploys)
+
 # 🍣 Meu Portfólio<br>
 
 ## 🖥 Visualização
